@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whittyangry.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whittyangry2 instance 10000" x="100" y="0" width="532" height="585"/>
+	<SubTexture name="whittyangry2 instance 10001" x="632" y="0" width="532" height="585"/>
+	<SubTexture name="whittyangry4 instance 10000" x="1164" y="0" width="512" height="726"/>
+	<SubTexture name="whittyangry4 instance 10001" x="0" y="726" width="512" height="726"/>
+	<SubTexture name="whittyangry5 instance 10000" x="512" y="726" width="650" height="684"/>
+	<SubTexture name="whittyangry5 instance 10001" x="512" y="726" width="650" height="684"/>
+	<SubTexture name="whittyangry5 instance 10002" x="1162" y="726" width="650" height="684"/>
+	<SubTexture name="whittyangry5 instance 10003" x="1162" y="726" width="650" height="684"/>
+	<SubTexture name="whittyangry5 instance 10004" x="1676" y="0" width="650" height="684"/>
+	<SubTexture name="whittyangry5 instance 10005" x="1676" y="0" width="650" height="684"/>
+	<SubTexture name="whittyangry6 instance 10000" x="1812" y="684" width="554" height="705"/>
+	<SubTexture name="whittyangry6 instance 10001" x="2416" y="721" width="554" height="705"/>
+	<SubTexture name="whittyangry8 instance 10000" x="1812" y="1389" width="604" height="721"/>
+	<SubTexture name="whittyangry8 instance 10001" x="2366" y="0" width="604" height="721"/>
+</TextureAtlas>

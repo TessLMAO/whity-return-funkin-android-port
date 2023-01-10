@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfartsy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfcool0000" x="100" y="0" width="399" height="562"/>
+	<SubTexture name="gfcool0001" x="100" y="0" width="399" height="562"/>
+	<SubTexture name="gfcool0002" x="499" y="0" width="399" height="562"/>
+	<SubTexture name="gfcool0003" x="499" y="0" width="399" height="562"/>
+	<SubTexture name="gfcool0004" x="0" y="562" width="399" height="562"/>
+<SubTexture name="gfcool0005" x="0" y="562" width="399" height="562"/>
+</TextureAtlas>

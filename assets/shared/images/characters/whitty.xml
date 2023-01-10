@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whitty.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whitty20000" x="100" y="0" width="609" height="600"/>
+	<SubTexture name="whitty20001" x="709" y="0" width="609" height="600"/>
+	<SubTexture name="whitty40000" x="1318" y="0" width="617" height="657"/>
+	<SubTexture name="whitty40001" x="0" y="657" width="617" height="657"/>
+	<SubTexture name="whitty50000" x="617" y="657" width="520" height="662"/>
+	<SubTexture name="whitty50001" x="617" y="657" width="520" height="662"/>
+	<SubTexture name="whitty50002" x="1137" y="657" width="520" height="662"/>
+	<SubTexture name="whitty50003" x="1137" y="657" width="520" height="662"/>
+	<SubTexture name="whitty50004" x="0" y="1319" width="520" height="662"/>
+	<SubTexture name="whitty50005" x="0" y="1319" width="520" height="662"/>
+	<SubTexture name="whitty60000" x="520" y="1319" width="614" height="706"/>
+	<SubTexture name="whitty60001" x="1134" y="1319" width="614" height="706"/>
+	<SubTexture name="whitty80000" x="1935" y="0" width="619" height="707"/>
+	<SubTexture name="whitty80001" x="1748" y="707" width="619" height="707"/>
+</TextureAtlas>

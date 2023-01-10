@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfuntold.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf2 instance 10000" x="100" y="0" width="519" height="511"/>
+	<SubTexture name="bf2 instance 10001" x="619" y="0" width="519" height="511"/>
+	<SubTexture name="bf4 instance 10000" x="1138" y="0" width="536" height="520"/>
+	<SubTexture name="bf4 instance 10001" x="0" y="520" width="536" height="520"/>
+	<SubTexture name="bf5 instance 10000" x="536" y="520" width="516" height="580"/>
+	<SubTexture name="bf5 instance 10001" x="536" y="520" width="516" height="580"/>
+	<SubTexture name="bf5 instance 10002" x="1052" y="520" width="516" height="580"/>
+	<SubTexture name="bf5 instance 10003" x="1052" y="520" width="516" height="580"/>
+	<SubTexture name="bf5 instance 10004" x="0" y="1100" width="516" height="580"/>
+	<SubTexture name="bf5 instance 10005" x="0" y="1100" width="516" height="580"/>
+	<SubTexture name="bf6 instance 10000" x="516" y="1100" width="455" height="579"/>
+	<SubTexture name="bf6 instance 10001" x="971" y="1700" width="455" height="579"/>
+	<SubTexture name="bf8 instance 10000" x="1674" y="0" width="560" height="597"/>
+	<SubTexture name="bf8 instance 10001" x="1568" y="597" width="560" height="597"/>
+</TextureAtlas>

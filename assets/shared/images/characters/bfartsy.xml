@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfartsy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf20000" x="100" y="0" width="519" height="511"/>
+	<SubTexture name="bf20001" x="619" y="0" width="519" height="511"/>
+	<SubTexture name="bf40000" x="1138" y="0" width="536" height="522"/>
+	<SubTexture name="bf40001" x="0" y="522" width="536" height="522"/>
+	<SubTexture name="bf50000" x="536" y="522" width="516" height="580"/>
+	<SubTexture name="bf50001" x="536" y="522" width="516" height="580"/>
+	<SubTexture name="bf50002" x="1052" y="522" width="516" height="580"/>
+	<SubTexture name="bf50003" x="1052" y="522" width="516" height="580"/>
+	<SubTexture name="bf50004" x="0" y="1102" width="516" height="580"/>
+	<SubTexture name="bf50005" x="0" y="1102" width="516" height="580"/>
+	<SubTexture name="bf60000" x="516" y="1102" width="454" height="578"/>
+	<SubTexture name="bf60000" x="516" y="1102" width="454" height="578"/>
+	<SubTexture name="bf60001" x="970" y="1102" width="454" height="578"/>
+	<SubTexture name="bf80000" x="1674" y="0" width="560" height="598"/>
+	<SubTexture name="bf80001" x="1568" y="598" width="560" height="598"/>
+</TextureAtlas>
